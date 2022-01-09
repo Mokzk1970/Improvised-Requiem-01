@@ -1,5 +1,5 @@
 # Improvised-Requiem-01
-![thumbnail](https://i9.ytimg.com/vi/nIYLWH8jplw/maxresdefault.jpg?time=1641657000000&sqp=CKjl5o4G&rs=AOn4CLB8WU4pSftNUU2qAcEkWJm1EI6fEA)
+![thumbnail](./img2.jpg)
 https://www.youtube.com/watch?v=nIYLWH8jplw
 
 FoxDot livecoding and MIDI playing on Linux DTM
